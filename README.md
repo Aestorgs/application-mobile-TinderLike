@@ -21,7 +21,13 @@ $ npm install
 # Running the app
 
 ```bash
-$ npm run dev
+$ npm run ios
+```
+```bash
+$ npm run android
+```
+```bash
+$ npm run web
 ```
 
 # Contexte: but du projet : Crée un Tinder Like backend
